@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.sites-runtime/
+.env*
+!.env.example
+
+# Exclude physical menu and non-digital project folders
+caffement-menu/
+caffe ment menu/
+docs/
+.openai/
+*.py
+
